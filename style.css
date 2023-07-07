@@ -1,0 +1,21 @@
+div {
+    display: inline-block ;
+    border: 1px solid black;
+    
+}
+
+.img-container {
+float:left;
+width: 25%;
+padding: 20px;
+box-sizing: border-box;
+
+}
+div:hover {
+    background-color: rgb(138, 29, 29);
+    color: white;
+    border: 5px solid black;
+}
+ #A1 {
+    border: none;
+ }
